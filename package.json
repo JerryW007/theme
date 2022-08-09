@@ -2,7 +2,7 @@
   "name": "wander-theme",
   "displayName": "wander theme",
   "description": "a wanderful theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.70.0"
   },
