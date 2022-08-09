@@ -21,9 +21,10 @@
 
 		
 		// 左侧文件列表
-		"list.activeSelectionBackground": "#31a535",
+		"list.activeSelectionBackground": "#87e181",
+		"list.activeSelectionForeground": "#000000",
 		"list.hoverBackground": "#87e181",
-		"list.hoverForeground": "#ffcb2e",
+		"list.hoverForeground": "#000000",
 		"list.focusForeground": "#000000",
 		"list.focusHighlightForeground": "#ff0000",
 		"list.inactiveFocusBackground": "#ff0000",
@@ -35,7 +36,7 @@
 		"sideBarSectionHeader.background": "#50736f",
 		"sideBarSectionHeader.foreground": "#000000",
 		// 左侧文件列表按钮
-		"button.background": "#080d15",
+		"button.background": "#4176cb",
 		"button.hoverBackground": "#4221ff",
 		"button.secondaryForeground": "#ff0000",
 
@@ -61,7 +62,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#215c78"
+				"foreground": "#18ec46"
 			}
 		},
 		{
@@ -94,14 +95,31 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword",
 			"scope": [
 				"keyword",
+			],
+			"settings": {
+				"foreground": "#1cddb6"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": [
 				"storage.type",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff07ea"
+			}
+		},
+		{
+			"name": "storage.modifier",
+			"scope": [
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#fffb00"
 			}
 		},
 		{
@@ -481,7 +499,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#00e1e1"
 			}
 		},
 		{
