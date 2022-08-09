@@ -1,0 +1,22 @@
+{
+  "name": "wander-theme",
+  "displayName": "wander theme",
+  "description": "a wanderful theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "publisher":"wander-theme",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wang Lia Lia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wang Lia Lia-color-theme.json"
+      }
+    ]
+  }
+}
