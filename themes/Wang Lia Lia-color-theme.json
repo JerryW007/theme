@@ -42,7 +42,7 @@
 
 		// 底部状态栏
 		"statusBar.background": "#0f5762",
-		"statusBar.debuggingBackground": "#ff0000",
+		"statusBar.debuggingBackground": "#d50202",
 		"statusBar.foreground": "#1aff00",
 		// 左侧菜单栏
 		"activityBar.background": "#3f4b55",
