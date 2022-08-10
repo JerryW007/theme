@@ -3,11 +3,10 @@
 	"colors": {
 		// 编辑区域
 		"editor.background": "#353d3c",
-		"editor.foreground": "#41e8a5",	
-		"editor.hoverHighlightBackground": "#f77575",
-		"editor.selectionHighlightBackground": "#00ff48",
+		"editor.foreground": "#5cffbe",	
 		"editor.selectionForeground": "#121212",
-		"editor.selectionBackground": "#87e181",
+		"editor.hoverHighlightBackground": "#9f0101",
+		"editor.selectionBackground": "#eb0000",
 		"banner.background": "#ff0000",
 
 		// 编辑区域文件颜色配置
@@ -63,7 +62,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#18ec46"
+				"foreground": "#18ec46",
 			}
 		},
 		{
