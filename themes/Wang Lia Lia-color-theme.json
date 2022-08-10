@@ -3,11 +3,11 @@
 	"colors": {
 		// 编辑区域
 		"editor.background": "#353d3c",
-		"editor.foreground": "#fdfdfd",	
+		"editor.foreground": "#41e8a5",	
 		"editor.hoverHighlightBackground": "#f77575",
 		"editor.selectionHighlightBackground": "#00ff48",
 		"editor.selectionForeground": "#121212",
-
+		"editor.selectionBackground": "#87e181",
 		"banner.background": "#ff0000",
 
 		// 编辑区域文件颜色配置
@@ -28,6 +28,7 @@
 		"list.focusForeground": "#000000",
 		"list.focusHighlightForeground": "#ff0000",
 		"list.inactiveFocusBackground": "#ff0000",
+		
 
 		// 
 		"sideBarTitle.foreground": "#0bff03",
