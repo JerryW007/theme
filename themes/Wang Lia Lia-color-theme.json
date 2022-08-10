@@ -5,7 +5,7 @@
 		"editor.background": "#353d3c",
 		"editor.foreground": "#5cffbe",	
 		"editor.selectionForeground": "#121212",
-		"editor.hoverHighlightBackground": "#9f0101",
+		"editor.hoverHighlightBackground": "#ff0000",
 		"editor.selectionBackground": "#eb0000",
 		"banner.background": "#ff0000",
 
