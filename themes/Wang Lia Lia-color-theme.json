@@ -5,10 +5,9 @@
 		"editor.background": "#353d3c",
 		"editor.foreground": "#5cffbe",	
 		"editor.selectionForeground": "#121212",
-		"editor.hoverHighlightBackground": "#0026ff",
-		// "editor.selectionBackground": "#fff700",
-		// "editor.inactiveSelectionBackground": "#fff700",
-		"banner.background": "#ff0000",
+		// "editor.hoverHighlightBackground": "#0026ff",
+		"editor.selectionBackground": "#0015ff",
+		"editor.inactiveSelectionBackground": "#fff700",
 
 		// 编辑区域文件颜色配置
 		"tab.hoverBackground": "#9aecff",
@@ -21,19 +20,14 @@
 
 		
 		// 左侧文件列表
-		"list.activeSelectionBackground": "#87e181",
+		"list.activeSelectionBackground": "#3e693c",
 		"list.activeSelectionForeground": "#000000",
-		"list.hoverBackground": "#87e181",
+		"list.hoverBackground": "#3e693c",
 		"list.hoverForeground": "#000000",
-		"list.focusForeground": "#000000",
-		"list.focusHighlightForeground": "#ff0000",
-		"list.inactiveFocusBackground": "#ff0000",
 		
 
-		// 
 		"sideBarTitle.foreground": "#0bff03",
 		"sideBar.background": "#3a3c3e",
-		// "sideBar.foreground": "#0bff03",
 		"sideBarSectionHeader.background": "#50736f",
 		"sideBarSectionHeader.foreground": "#000000",
 		// 左侧文件列表按钮
@@ -48,11 +42,22 @@
 		// 左侧菜单栏
 		"activityBar.background": "#3f4b55",
 		"activityBar.foreground": "#4aff21",
-		"activityBar.inactiveForeground": "#ff0000",
-		"activityBarBadge.foreground": "#e5ff00",
 
+		"activityBar.inactiveForeground": "#ff0000",
+		// 活动栏通知徽章的前景色
+		"activityBarBadge.foreground": "#e5ff00",
+		// 活动栏通知徽章的背景色
+		"activityBarBadge.background": "#000000",
 		"terminal.background": "#2f2f2f",
-		"terminal.selectionForeground": "#ff0000"
+		"terminal.selectionForeground": "#ff0000",
+
+
+		"titleBar.activeBackground": "#fffef9",
+		
+		// "activityBarBadge.foreground": "#fbff00",
+		"panelTitle.activeForeground": "#00ff00",
+		"panelTitle.inactiveForeground": "#ff0000",
+		"panelSectionHeader.background": "#39057d"
 	},
 	"tokenColors": [
 		{
