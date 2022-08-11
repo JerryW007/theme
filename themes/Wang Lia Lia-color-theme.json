@@ -5,7 +5,6 @@
 		"editor.background": "#353d3c",
 		"editor.foreground": "#5cffbe",	
 		"editor.selectionForeground": "#121212",
-		// "editor.hoverHighlightBackground": "#0026ff",
 		"editor.selectionBackground": "#0015ff",
 		"editor.inactiveSelectionBackground": "#fff700",
 
@@ -37,7 +36,7 @@
 
 		// 底部状态栏
 		"statusBar.background": "#0f5762",
-		"statusBar.debuggingBackground": "#d50202",
+		"statusBar.debuggingBackground": "#8a0202",
 		"statusBar.foreground": "#1aff00",
 		// 左侧菜单栏
 		"activityBar.background": "#3f4b55",
@@ -54,7 +53,6 @@
 
 		"titleBar.activeBackground": "#fffef9",
 		
-		// "activityBarBadge.foreground": "#fbff00",
 		"panelTitle.activeForeground": "#00ff00",
 		"panelTitle.inactiveForeground": "#ff0000",
 		"panelSectionHeader.background": "#39057d"
