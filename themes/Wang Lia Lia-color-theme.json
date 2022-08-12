@@ -5,7 +5,7 @@
 		"editor.background": "#353d3c",
 		"editor.foreground": "#5cffbe",	
 		"editor.selectionForeground": "#121212",
-		"editor.selectionBackground": "#0015ff",
+		"editor.selectionBackground": "#0015ff77",
 		"editor.inactiveSelectionBackground": "#fff700",
 
 		// 编辑区域文件颜色配置
@@ -46,7 +46,7 @@
 		// 活动栏通知徽章的前景色
 		"activityBarBadge.foreground": "#e5ff00",
 		// 活动栏通知徽章的背景色
-		"activityBarBadge.background": "#000000",
+		"activityBarBadge.background": "#2c2c2c",
 		"terminal.background": "#2f2f2f",
 		"terminal.selectionForeground": "#ff0000",
 
@@ -55,7 +55,30 @@
 		
 		"panelTitle.activeForeground": "#00ff00",
 		"panelTitle.inactiveForeground": "#ff0000",
-		"panelSectionHeader.background": "#39057d"
+		"panelSectionHeader.background": "#39057d",
+
+
+
+		// git
+		"gitDecoration.modifiedResourceForeground":"#978101",
+		
+		// 文件有异常或者problem的前景色,编辑器文件名颜色跟随列表颜色
+		// "list.warningForeground": "#ff00d0"
+
+		// terminal debug标题所在横条的颜色配置
+		// "panel.background":"#ff0000"
+		// 调试F5按钮所在的toolBar
+		// "debugToolBar.background":"#ff0000"
+		// 搜索框
+		// "commandCenter.background": "#ff0000"
+
+		// 横幅出现在标题栏下方，并且在可见时跨越工作台的整个宽度
+		// "banner.background":"#1bfbb0",
+		// "banner.foreground": "#00ff1a"
+
+		// 针对所有输入框
+		"input.background":"#424242"
+		
 	},
 	"tokenColors": [
 		{
